@@ -1,4 +1,4 @@
-#### Technical Skills: Python, R, Matlab, Bioinformatics tools, Slurm, 
+#### Technical Skills: Python, R, Matlab, Bioinformatics tools, Slurm 
 #### Wet Lab Skills: PCR, Cell culture, Electrophoresis, Chromatography, DNA/RNA extraction and manipulation
 **[Source Codes](https://github.com/sshrestha15/Project)**
 **[Thesis publication](https://digitalcommons.unl.edu/bioscidiss/126/)**
@@ -62,9 +62,11 @@
 
 ### GCMB seminar (_oral presentations_)
 **Spring 2023**  
-- Analysis of SARS-CoV-2 proteins to understand differential host adaptation 
+- Analysis of SARS-CoV-2 proteins to understand differential host adaptation
+  
 **Spring 2022**  
 - Preliminary analysis of SARS-CoV-2 protein sequences for human and non-human host adaptation
+  
 **Spring 2021**  
 - Prediction of protein-protein interactions based on domain
 
