@@ -3,10 +3,12 @@
 **[Source Codes](https://github.com/sshrestha15/Project)**
 **[Thesis publication](https://digitalcommons.unl.edu/bioscidiss/126/)**
 
+
 ### Education
 - M.S., Biological Sciences | University of Nebraska-Lincoln (_2023_)
 - B.S., Biology | Southeast Missouri State University (_2018_)
 - B.S., Applied Biotechnology | Sikkim Manipal University affiliated LBEF Campus (_2014_)
+
 
 ### Research Experience
 **MS Thesis Research @ University of Nebraska-Lincoln (_2020 – 2023_)**  
@@ -27,6 +29,7 @@
 - Characterized Multi-Drug Resistance Pattern in Salmonella Paratyphi isolated from Hospital Samples by R- Plasmid Analysis and its Conjugative Transfer
 - Extracted the plant metabolites to check their microbiological properties
 
+
 ### Work experience
 ### Bayer, Randstad North America
 **Lab Technician (_2019 – 2020_)**  
@@ -42,8 +45,7 @@
 
 
 ### Teaching and mentoring experience
-
-###University of Nebraska-Lincoln
+### University of Nebraska-Lincoln
 **Research Assistant (_2020 - 2023_)**  
 - Mentoring the undergraduate researcher to use different bioinformatics tools
 - Assisted the undergraduate project to study host and viral pathogenesis focusing on the host immune proteins
@@ -54,7 +56,6 @@
 - Carrying out the lab lecture which includes background of the topic, lab guidelines, lab materials, and training on how to use lab equipment
 
 ### Presentations
-
 ### BioGSA Symposium (_poster presentation_) 
 **Spring 2023**  
 - Analysis of SARS-CoV-2 proteins to understand differential host adaptation 
@@ -71,8 +72,8 @@
 **Poster presentation on World DNA Day 2013**  
 - Characterization of Multi-Drug Resistance pattern in Salmonella Paratyphi isolated from hospital samples by R-Plasmid Analysis and conjugative transfer
 
-### Leadership experience
 
+### Leadership experience
 ### Nepalese Student Association 
 **Vice-President (_2017 - 2018_)**  
 - Collaborated with different organizations (Student government, international student organization, etc.) in the university to manage programs
@@ -93,6 +94,7 @@
 - Conducted phonetics classes to improve the English language in high school
 - Organized intra-college debate, essay, and writing competition
 - Started and published fortnightly college magazine
+
 
 ### Honor and awards
 - Bayer’s Employee of the Month (_May 2020_)
