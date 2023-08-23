@@ -1,6 +1,6 @@
 ### Education
-- MS, Biological Sciences in Genetics, Cell & Molecular Biology | University of Nebraska-Lincoln, School of Biological Sciences (_2023_)
-- BS, Biology in Microbiology, Cellular & Molecular Biology, Biotechnology | Southeast Missouri State University (_2018_)
+- MS, Biological Sciences | University of Nebraska-Lincoln (_2023_)
+- BS, Biology | Southeast Missouri State University (_2018_)
 - BS, Applied Biotechnology | Sikkim Manipal University affiliated LBEF Campus (_2014_)
 
 ### Research Experience
