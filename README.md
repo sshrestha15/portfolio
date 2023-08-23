@@ -1,7 +1,7 @@
 #### Technical Skills: Python, R, Matlab, Bioinformatics tools, Slurm, 
 #### Wet Lab Skills: PCR, Cell culture, Electrophoresis, Chromatography, DNA/RNA extraction and manipulation
-[Source Codes](https://github.com/sshrestha15/Project)
-[Thesis publication](https://digitalcommons.unl.edu/bioscidiss/126/)
+**[Source Codes](https://github.com/sshrestha15/Project)**
+**[Thesis publication](https://digitalcommons.unl.edu/bioscidiss/126/)**
 
 ### Education
 - M.S., Biological Sciences | University of Nebraska-Lincoln (_2023_)
