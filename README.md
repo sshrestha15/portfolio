@@ -4,8 +4,7 @@
 - BS, Applied Biotechnology | Sikkim Manipal University affiliated LBEF Campus (_2014_)
 
 ### Research Experience
-**MS Research @ University of Nebraska-Lincoln (_2020 – 2023_)
-**Master’s thesis (https://digitalcommons.unl.edu/bioscidiss/126/)
+**MS Thesis Research @ University of Nebraska-Lincoln (_2020 – 2023_)(https://digitalcommons.unl.edu/bioscidiss/126/)
 - Analysis of SARS-CoV-2 protein sequences for human and non-human host adaptation
 - Studied the mechanisms of the SARS-CoV-2 interspecies transmission and pathogenesis
 - Developed experimental design for analyzing and interpreting big data biological data to investigate SARS-CoV-2 genomes from different host
