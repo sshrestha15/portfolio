@@ -1,5 +1,9 @@
-#### Technical Skills: Python, R, Matlab, Bioinformatics tools, Slurm 
-#### Wet Lab Skills: PCR, Cell culture, Electrophoresis, Chromatography, DNA/RNA extraction and manipulation
+#### Programming Languages: Python, R, Matlab
+#### OS and Servers: Linux, Unix, MacOS
+#### Technical Experience: GitHub, Clusters, Algorithm Designing, Shell Scripting, SLURM, PBS/Torque
+#### Bioinformatics Tools: Sequence Alignments, Phylogenetic Trees, GenBank, BLAST, Secondary structure prediction, Gene Prediction, RNA-Seq tools, Transcriptomes 
+#### Databases: NCBI SARS-CoV-2, GISAID, HPIDB, PubMed
+#### Molecular Techniques: PCR, Cell Culture, Electrophoresis, Chromatography, SDS-PAGE, Protein Purification, ELISA, DNA/RNA Extraction 
 **[Source Codes](https://github.com/sshrestha15/Project)**
 **[Thesis publication](https://digitalcommons.unl.edu/bioscidiss/126/)**
 
@@ -19,22 +23,36 @@
 - Compared the host and viral protein-protein interaction (PPI) prediction methods and predicted SARS-CoV-2 and host protein interactomes
 - Used machine learning techniques like VirusHostPPI, LGCA-VHPPI, HVPPI, and LSTM-PHV to analyze PPI
 - Collaborated with Dr. Luwen Zhang to study host and viral pathogenesis
+- White-tailed deer (WTD) viral genomes were highly divergent
+- WTD had higher variation in physicochemical properties than human viral proteins indicating rapid evolution of WTD viral proteins
+- Physicochemical properties contributing to the main variance were associated with the change in the hydrophobic nature of the viral proteins
+- Van der Waals volume, residue volume, isoelectric point, steric parameter, molecular weight, and relative mutability contributed to determining the physicochemical properties
+- Compared with the human variants, the viral sequences of white-tailed deer, there was no significant effect in the prediction
+
+
 
 **Undergraduate Research @ Southeast Missouri State University (_2017 – 2018_)**
 - Putative Endophytic Bacterium from the Miller Reserve
 - Aligned 16s rDNA sequences of bacteria obtained from the Miller Reserve
 - Analyzed and compiled bacterial sequences using bioinformatics tools (Clustal Omega, BLAST, BioEdit, BankIt)
+- Identified the new strains of Bacillus that were contributing to the restoration of the wetlands
+
 
 **Undergraduate Research @ LBEF Campus (_2013 – 2014_)**  
 - Characterized Multi-Drug Resistance Pattern in Salmonella Paratyphi isolated from Hospital Samples by R- Plasmid Analysis and its Conjugative Transfer
 - Extracted the plant metabolites to check their microbiological properties
+- Transferred R-plasmid from Salmonella Paratyphi showed a Multi-Drug Resistance Pattern
+- Herbs like cumin, coriander, garlic, etc. showed significant sensitivity in Multi-Drug Resistance bacteria
 
 
 ### Work experience
 ### Bayer, Randstad North America
 **Lab Technician (_2019 – 2020_)**  
 - Handled pesticides and microbial-induced seeds, seed processing, seed packaging, R&D, manufacturing, and data processing
-- Fulfilled seed request for the field trial
+- Communicated with the different departments to facilitate the storage and supply of pesticide-treated seeds
+- Provided a weekly report to the agronomist research specialist on the inventory
+- Trained co-workers to use different software for data entry
+
 
 ### Pharma Medica Research Inc. 
 **Quality Control Associate (_2018 – 2019_)**               	                         	                 		    	
