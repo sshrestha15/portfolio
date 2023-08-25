@@ -20,14 +20,15 @@
 - Studied the mechanisms of the SARS-CoV-2 interspecies transmission and pathogenesis
 - Developed experimental design for analyzing and interpreting big data biological data to investigate SARS-CoV-2 genomes from different host
 - Filtered poor sequence quality as a measure of data quality control
+- Designed and developed a pipeline for data analysis using sequence alignments, phylogenetic trees, BLAST, principal component analysis, and secondary structure prediction through high computing clusters
 - Compared the host and viral protein-protein interaction (PPI) prediction methods and predicted SARS-CoV-2 and host protein interactomes
 - Used machine learning techniques like VirusHostPPI, LGCA-VHPPI, HVPPI, and LSTM-PHV to analyze PPI
 - Collaborated with Dr. Luwen Zhang to study host and viral pathogenesis
 - White-tailed deer (WTD) viral genomes were highly divergent
 - WTD had higher variation in physicochemical properties than human viral proteins indicating rapid evolution of WTD viral proteins
-- Physicochemical properties contributing to the main variance were associated with the change in the hydrophobic nature of the viral proteins
 - Van der Waals volume, residue volume, isoelectric point, steric parameter, molecular weight, and relative mutability contributed to determining the physicochemical properties
-- Compared with the human variants, the viral sequences of white-tailed deer, there was no significant effect in the prediction
+- Physicochemical properties contributing to the main variance were associated with the change in the hydrophobic nature of the viral proteins
+- When the viral sequences of white-tailed deer were compared with the human variants, there were no significant effects in the protein-protein interaction prediction
 
 
 
